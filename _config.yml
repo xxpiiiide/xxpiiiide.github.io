@@ -96,8 +96,7 @@ analytics:
 author:
   name             : "LEE PIL JE"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "함께 일할 때에 우러 나오는 힘,
-                      그 무한의 힘을 믿는 개발자"
+  bio              : "요새 민트에 꽂힌 개발자"
   location         : "South Korea"
   email            :  
   links:
